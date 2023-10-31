@@ -21,6 +21,7 @@ extern lv_obj_t *ui_Screen1;
 extern lv_obj_t *ui_Image1;
 // SCREEN: ui_Screen2
 void ui_Screen2_screen_init(void);
+void ui_event_Screen2( lv_event_t * e);
 extern lv_obj_t *ui_Screen2;
 extern lv_obj_t *ui_Label1;
 extern lv_obj_t *ui____initial_actions0;
